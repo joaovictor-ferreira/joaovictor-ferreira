@@ -22,6 +22,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="node" height="30" width="40" src="https://seeklogo.com/images/N/node-js-logo-F4F55CD2D0-seeklogo.com.png">
   <img align="center" alt="Etherum" height="30" width="40" src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=025">
 
 </div><br>
