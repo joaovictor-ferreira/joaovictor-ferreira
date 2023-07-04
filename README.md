@@ -1,11 +1,11 @@
-# Olá, eu sou o João Victor! 👋
+# Hello, I'm João Victor! 👋
 
-## Sobre mim
-- Estudante de Engenharia de Software na PUC e Desenvolvedor Front-End. 
-- Tenho 20 anos.
-- Experiência em desenvolvimento front-end utilizando HTML, CSS, JavaScript, TypeScript e React.
-- Certificado em Inglês por Cambridge.
-- Apaixonado por construir soluções criativas e inovadoras.
+## About me
+- I'm a Front-End Developer and currently I'm pursuing a degree in Software Engineering at PUC.
+- I'm 20 years old.
+- I have experience in front-end development using React, Typescript, Javascript, CSS and HTML.
+- Certified in English by Cambridge.
+- Passionate about building creative and innovative solutions.
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 <div align="center">
@@ -28,8 +28,8 @@
 
 <div align="center">
   <p>Lets Build!!! 💻 </p>
-  <p>Estou sempre buscando colaborar em projetos interessantes e aprender coisas novas.</p>
-  <p> Se você tem algum projeto em mente ou gostaria de conversar, não hesite em entrar em contato 📱</p>
+  <p>I'm always seeking to collaborate on interesting projects and learn new things.</p>
+  <p> If you have any project in mind or would like to have a conversation, please don't hesitate to get in touch. 📱</p>
 </div>
 <br><br>
 
