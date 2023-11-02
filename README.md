@@ -1,6 +1,6 @@
 # Hello, I'm João Victor! 👋
 
-<b style= 'color: #b01dff'> About me </b>
+## About me
 - I'm a Front-End Developer and currently I'm pursuing a degree in Software Engineering at PUC.
 - I'm 20 years old.
 - I have experience in front-end development using React, Typescript, Javascript, CSS and HTML.
