@@ -1,9 +1,9 @@
 # Hello, I'm João Victor! 👋
 
 ## About me
-- I'm a Front-End Software Engineer.
-- I'm 21 years old.
-- I have experience in front-end development using ReactJS, Typescript, NextJS, Cypress, Javascript, CSS and HTML.
+- I'm a Frontend Software Engineer.
+- I'm 22 years old.
+- I have experience in front-end development using ReactJS, Typescript, NextJS, Cypress, Javascript, CSS, and HTML.
 - Certified in English by Cambridge.
 - Passionate about building creative and innovative solutions.
 
@@ -27,8 +27,8 @@
 </div><br>
 
 <div align="center">
-  <p>Lets Build!!! 💻 </p>
-  <p>I'm always seeking to collaborate on interesting projects and learn new things.</p>
+  <p> Let's Build!!! 💻 </p>
+  <p> I always seek to collaborate on interesting projects and learn new things.</p>
   <p> If you have any project in mind or would like to have a conversation, please don't hesitate to get in touch. 📱</p>
 </div>
 <br><br>
