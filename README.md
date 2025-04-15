@@ -3,7 +3,7 @@
 ## About me
 - I'm a Frontend Software Engineer.
 - I'm 22 years old.
-- I have experience in front-end development using ReactJS, Typescript, NextJS, Cypress, Javascript, CSS, and HTML.
+- I have experience in front-end development using React.js, TypeScript, Next.js, Styled Components & Tailwind.
 - Certified in English by Cambridge.
 - Passionate about building creative and innovative solutions.
 
