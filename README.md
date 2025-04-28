@@ -14,17 +14,7 @@
   </a>
 </div>
 
-<div align="center" valign="top"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="node" height="30" width="40" src="https://camo.githubusercontent.com/8d7500389365cd5fb067475412ecd642616447844f81b471c04097dccdca6a21/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f353936382f353936383332322e706e67">
-  <img align="center" alt="Ethereum" height="30" width="40" src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=025">
-
-</div><br>
+<br>
 
 <div align="center">
   <p> Let's Build!!! 💻 </p>
