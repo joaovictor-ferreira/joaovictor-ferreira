@@ -15,7 +15,7 @@ Certified in English by Cambridge. I work well in remote environments and enjoy 
 
 ### [Guanciale Terminal](https://terminal.guanciale.ai/)
 AI-driven alpha terminal for on-chain traders.  
-- Built the frontend using React, Next.js, and Tailwind  
+- Built the frontend using React, Next.js,Styled Components, Wagmi and Viem  
 - Integrated LLM output with Ethereum data  
 - Focused on performance, readability, and actionable insights  
 
