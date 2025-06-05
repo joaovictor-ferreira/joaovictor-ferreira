@@ -27,14 +27,14 @@ Governance-based DeFi protocol with veNFTs, gauges, and AI agents.
 - Structured layout using Tailwind and modular Next.js routing  
 
 
-### [Zaros Perpetuals DEX](https://app.zaros.fi/)
+### [Zaros Perpetuals DEX](https://x.com/zarosfi)
 On-chain perpetual trading platform built on Injective.  
 - Developed the Perp trading module, Earn module, and mobile flows  
 - Wrote unit tests and connected smart contract interactions  
 - Co-created the Tree Proxy Pattern alongside the CTO  
 
 
-### [Ninja Labs](http://ninjalabs.app/)
+### [Ninja Labs](https://x.com/0xninja_labs))
 Web3 gaming platform for smart contract-based questing.  
 - Built and styled the frontend from scratch  
 - Integrated Cosmos-based contracts  
