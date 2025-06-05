@@ -28,7 +28,8 @@ Governance-based DeFi protocol with veNFTs, gauges, and AI agents.
 - Led the development
 - Developed voting interface, gauge deployment, and agent logic flows  
 - Integrated smart contracts using wagmi and viem  
-- Structured layout using Tailwind and modular Next.js routing  
+- Structured layout using Tailwind and modular Next.js routing
+- Created backend services in Node.js 
 
 
 ### [Zaros Perpetuals DEX](https://x.com/zarosfi)
