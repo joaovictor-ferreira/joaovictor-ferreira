@@ -15,6 +15,8 @@ Certified in English by Cambridge. I work well in remote environments and enjoy 
 
 ### [Guanciale Terminal](https://terminal.guanciale.ai/)
 AI-driven alpha terminal for on-chain traders.  
+
+- Led the development
 - Built the frontend using React, Next.js,Styled Components, Wagmi and Viem  
 - Integrated LLM output with Ethereum data  
 - Focused on performance, readability, and actionable insights  
@@ -22,20 +24,22 @@ AI-driven alpha terminal for on-chain traders.
 
 ### [Cured Finance](https://testnet.app.curedfi.io/)
 Governance-based DeFi protocol with veNFTs, gauges, and AI agents.  
+
+- Led the development
 - Developed voting interface, gauge deployment, and agent logic flows  
 - Integrated smart contracts using wagmi and viem  
 - Structured layout using Tailwind and modular Next.js routing  
 
 
 ### [Zaros Perpetuals DEX](https://x.com/zarosfi)
-On-chain perpetual trading platform built on Injective.  
-- Developed the Perp trading module, Earn module, and mobile flows  
+On-chain perpetual trading platform built on Arbitrum.  
+- Developed the Perps trading module, Earn module, and mobile flows  
 - Wrote unit tests and connected smart contract interactions  
 - Co-created the Tree Proxy Pattern alongside the CTO  
 
 
 ### [Ninja Labs](https://x.com/0xninja_labs)
-Web3 gaming platform for smart contract-based questing.  
+Web3 gaming platform on Injective.  
 - Built and styled the frontend from scratch  
 - Integrated Cosmos-based contracts  
 - Focused on responsive UI and interactive game logic display  
