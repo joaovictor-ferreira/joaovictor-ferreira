@@ -1,36 +1,71 @@
-# Hello, I'm João Victor! 👋
+# Hello, I'm João Victor
 
-## About me
-- I'm a Frontend Software Engineer.
-- I'm 22 years old.
-- I have experience in front-end development using React.js, TypeScript, Next.js, Styled Components & Tailwind.
-- Certified in English by Cambridge.
-- Passionate about building creative and innovative solutions.
+## About Me
+I'm a 22-year-old Frontend Software Engineer focused on building scalable and intuitive Web3 applications. I specialize in:
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+- React.js, TypeScript, Next.js  
+- Tailwind CSS, Styled Components  
+- Web3 integrations using viem and wagmi  
+- Clean and modular UI development
+
+Certified in English by Cambridge. I work well in remote environments and enjoy contributing to impactful products.
+
+---
+
+## Projects
+
+### [Guanciale Terminal](https://terminal.guanciale.ai/)
+AI-driven alpha terminal for on-chain traders.  
+- Built the frontend using React, Next.js, and Tailwind  
+- Integrated LLM output with Ethereum data  
+- Focused on performance, readability, and actionable insights  
+
+---
+
+### [Cured Finance – Testnet](https://testnet.app.curedfi.io/)
+Governance-based DeFi protocol with veNFTs, gauges, and AI agents.  
+- Developed voting interface, gauge deployment, and agent logic flows  
+- Integrated smart contracts using wagmi and viem  
+- Structured layout using Tailwind and modular Next.js routing  
+
+---
+
+### [Zaros Perpetual DEX](https://app.zaros.fi/)
+On-chain perpetual trading platform built on Injective.  
+- Developed the Perp trading module, Earn module, and mobile flows  
+- Wrote unit tests and connected smart contract interactions  
+- Co-created the Tree Proxy Pattern alongside the CTO  
+
+---
+
+### [Ninja Labs](http://ninjalabs.app/)
+Web3 gaming platform for smart contract-based questing.  
+- Built and styled the frontend from scratch  
+- Integrated Cosmos-based contracts  
+- Focused on responsive UI and interactive game logic display  
+
+---
+
+## Contact
+
 <div align="center">
-  <a href="https://github.com/joaovictor-ferreira">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor-ferreira&theme=aura&hide_border=false&&layout=compact"/>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-eth/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:devjoaovictorferreira@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-devjoaovictorferreira@gmail.com-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/joaovictor.eth/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-joaovictor.eth-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
 
-<br>
+---
+
+## GitHub Stats
 
 <div align="center">
-  <p> Let's Build!!! 💻 </p>
-  <p> I always seek to collaborate on interesting projects and learn new things.</p>
-  <p> If you have any project in mind or would like to have a conversation, please don't hesitate to get in touch. 📱</p>
+  <a href="https://github.com/joaovictor-ferreira">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor-ferreira&theme=aura&hide_border=false&layout=compact"/>
+  </a>
 </div>
-<br><br>
-
-<div align="center">
-  <a href=https://www.linkedin.com/in/jo%C3%A3o-victor-eth/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href= devjoaovictorferreira@gmail.com><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/joaovictor.eth/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
-
-
-
-
-
-
