@@ -22,7 +22,7 @@ AI-driven alpha terminal for on-chain traders.
 
 ---
 
-### [Cured Finance – Testnet](https://testnet.app.curedfi.io/)
+### [Cured Finance](https://testnet.app.curedfi.io/)
 Governance-based DeFi protocol with veNFTs, gauges, and AI agents.  
 - Developed voting interface, gauge deployment, and agent logic flows  
 - Integrated smart contracts using wagmi and viem  
@@ -30,7 +30,7 @@ Governance-based DeFi protocol with veNFTs, gauges, and AI agents.
 
 ---
 
-### [Zaros Perpetual DEX](https://app.zaros.fi/)
+### [Zaros Perpetuals DEX](https://app.zaros.fi/)
 On-chain perpetual trading platform built on Injective.  
 - Developed the Perp trading module, Earn module, and mobile flows  
 - Wrote unit tests and connected smart contract interactions  
