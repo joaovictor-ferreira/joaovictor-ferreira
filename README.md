@@ -34,7 +34,7 @@ On-chain perpetual trading platform built on Injective.
 - Co-created the Tree Proxy Pattern alongside the CTO  
 
 
-### [Ninja Labs](https://x.com/0xninja_labs))
+### [Ninja Labs](https://x.com/0xninja_labs)
 Web3 gaming platform for smart contract-based questing.  
 - Built and styled the frontend from scratch  
 - Integrated Cosmos-based contracts  
