@@ -45,19 +45,16 @@ Web3 gaming platform on Injective.
 - Integrated Cosmos-based contracts  
 - Focused on responsive UI and interactive game logic display  
 
-
 ## Contact
 
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-eth/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="24px" width="24px">
-  </a>
-
-  <a href="mailto:devjoaovictorferreira@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="24px" width="24px">
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-eth/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="32px" width="32px">
+</a>
+&nbsp;&nbsp;
+<a href="mailto:devjoaovictorferreira@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="32px" width="32px">
+</a>
+<span>&nbsp;&nbsp;devjoaovictorferreira@gmail.com</span>
 
 
 ## GitHub Stats
