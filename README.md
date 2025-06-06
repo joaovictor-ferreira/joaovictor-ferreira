@@ -48,15 +48,14 @@ Web3 gaming platform on Injective.
 
 ## Contact
 
+
 <div align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-eth/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="24px" width="24px">
   </a>
+
   <a href="mailto:devjoaovictorferreira@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-devjoaovictorferreira@gmail.com-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/joaovictor.eth/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-joaovictor.eth-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="24px" width="24px">
   </a>
 </div>
 
