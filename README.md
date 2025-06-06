@@ -50,7 +50,7 @@ Web3 gaming platform on Injective.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-eth/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white**](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png">
   </a>
   <a href="mailto:devjoaovictorferreira@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-devjoaovictorferreira@gmail.com-%23333?style=for-the-badge&logo=gmail&logoColor=white">
