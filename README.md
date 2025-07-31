@@ -1,9 +1,10 @@
 # Hello, I'm João Victor
 
 ## About Me
-I'm a 22-year-old Frontend Software Engineer focused on building scalable and intuitive Web3 applications. I specialize in:
+I'm a Software Engineer focused on building scalable and intuitive Web3 applications. I specialize in:
 
 - React.js, TypeScript, Next.js  
+- Node.js
 - Tailwind CSS, Styled Components  
 - Web3 integrations using viem and wagmi  
 - Clean and modular UI development
