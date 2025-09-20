@@ -5,6 +5,7 @@ I'm a Software Engineer focused on building scalable and intuitive Web3 applicat
 
 - React.js, TypeScript, Next.js  
 - Node.js
+- Solidity
 - Tailwind CSS, Styled Components  
 - Web3 integrations using viem and wagmi  
 - Clean and modular UI development
