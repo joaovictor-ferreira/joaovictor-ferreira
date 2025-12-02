@@ -15,6 +15,15 @@ Certified in English by Cambridge. I work well in remote environments and enjoy 
 
 ## Projects
 
+### [Illuvium - Staking V3](https://staking.illuvium.io/dashboard)
+Staking platform on Base powered by an off-chain points and decay system.
+
+- Led the development
+- Architected the Shards(points) system, ILV Bridge, and authored the Staking documentation
+- Built the frontend using React (Next.js), Styled Components, Wagmi, and Viem
+- Designed and implemented the decay logic on the Backend
+  
+
 ### [Guanciale Terminal](https://terminal.guanciale.ai/)
 AI-driven alpha terminal for on-chain traders.  
 
