@@ -1,4 +1,4 @@
-# Hello, I'm João Victor
+# Hello, I'm João Ferreira
 
 ## About Me
 I'm a Software Engineer focused on building scalable and intuitive Web3 applications. I specialize in:
