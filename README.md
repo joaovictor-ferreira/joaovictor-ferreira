@@ -66,12 +66,3 @@ Web3 gaming platform on Injective.
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="32px" width="32px">
 </a>
 <span>&nbsp;&nbsp;devjoaovictorferreira@gmail.com</span>
-
-
-## GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/joaovictor-ferreira">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor-ferreira&theme=aura&hide_border=false&layout=compact"/>
-  </a>
-</div>
