@@ -8,7 +8,7 @@ I'm a Software Engineer focused on building scalable and intuitive Web3 applicat
 - Solidity
 - Tailwind CSS, Styled Components  
 - Web3 integrations using viem and wagmi  
-- Clean and modular UI development
+- Clean and modular Software development
 
 Certified in English by Cambridge. I work well in remote environments and enjoy contributing to impactful products.
 
