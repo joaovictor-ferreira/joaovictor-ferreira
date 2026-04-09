@@ -1,7 +1,7 @@
 # Hey, I'm João Ferreira
 
 ## About Me
-I'm a Software Engineer focused on building scalable and intuitive Web3 applications. I specialize in:
+I'm a Software Engineer focused on building scalable Web3 applications. I specialize in:
 
 - React.js, TypeScript, Next.js  
 - Node.js
