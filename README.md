@@ -57,7 +57,4 @@ Web3 gaming platform on Injective.
 - Focused on responsive UI and interactive game logic display  
 
 ## Contact
-<a href="mailto:devjoaovictorferreira@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="32px" width="32px">
-</a>
 <span>&nbsp;&nbsp;devjoaovictorferreira@gmail.com</span>
